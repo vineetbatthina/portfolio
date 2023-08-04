@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vineet Batthina
 
-<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/file/d/1et4fFvG6QkqAERabPK67Yr7_21KIgi9A/view?usp=drive_link"><img src="https://github.com/vineetbatthina/portfolio/blob/main/QvO9AS01.svg" alt="Resume" width="96" height="28"></a></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/file/d/1et4fFvG6QkqAERabPK67Yr7_21KIgi9A/view?usp=drive_link"><img src="https://github.com/vineetbatthina/portfolio/blob/main/Resume.svg" alt="Resume" width="96" height="28"></a></p>
 
 ## About Me
 I'm a passionate and innovative software engineer with a strong foundation in developing efficient and maintainable software solutions. I love turning complex problems into elegant, user-friendly solutions. My areas of expertise include:
