@@ -17,8 +17,10 @@ I'm a passionate and innovative software engineer with a strong foundation in de
 ## Projects
 Here are a few projects I've worked on:
 
-- [UberEats Clone](https://youtu.be/HkROcVFkVHE): Sole contribution in replicating the functionalities of UberEats in a hierarchial fashion with upgrades pertaining to the efficient and optimal system design
-- [Indeed Clone](https://youtu.be/J0RPAFwB-R8): Contributing to Job Portal imitation with layered architecture comprising enterprise grade software standards
+- [UberEats Clone](https://youtu.be/HkROcVFkVHE): Sole contribution in replicating the functionalities of [UberEats](https://github.com/vineetbatthina/ubereats) in a hierarchial fashion with upgrades pertaining to the efficient and optimal system design
+- [Indeed Clone](https://youtu.be/J0RPAFwB-R8): Team contribution to [Job Portal](https://github.com/vineetbatthina/indeed-clone) imitation with layered architecture comprising enterprise grade software standards
+- [Exodus Log Analytics](https://github.com/vineetbatthina/ExodusFE): An immigrant's safe heaven where recommendations can be found based on their ethnicities
+- [Kanyarashi](https://github.com/gopinathsjsu/team-project-kanyarashi) : A new age hotel booking system based on dynamic holidays or recent trends found on twitter based on sentiment analysis
 
 ## Get in Touch
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vineet-batthina/)
