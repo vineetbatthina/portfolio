@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Vineet Batthina
+
+<span style="color: green;">[Resume](https://drive.google.com/file/d/1et4fFvG6QkqAERabPK67Yr7_21KIgi9A/view?usp=drive_link)</span>
 
 ## About Me
 I'm a passionate and innovative software engineer with a strong foundation in developing efficient and maintainable software solutions. I love turning complex problems into elegant, user-friendly solutions. My areas of expertise include:
@@ -9,32 +11,16 @@ I'm a passionate and innovative software engineer with a strong foundation in de
 - Problem-solving and algorithm development
 - Continuous integration and deployment
 
-I'm always eager to learn and stay up-to-date with the latest technologies and industry trends. I thrive in collaborative environments and enjoy contributing to open-source projects.
-
-## Tech Stack
-Here are some of the technologies I've worked with:
-
-- **Languages**: JavaScript, Python, Java
-- **Front-end**: HTML, CSS, React, Vue.js
-- **Back-end**: Node.js, Express
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git
-- **Tools**: VS Code, Docker, Postman
+## Active Contributions
+- [Influence AI](http://influenceai.in/): A medium where influencers harmoniously collaborate with astute business proprietors to artfully promote and showcase their array of products
 
 ## Projects
 Here are a few projects I've worked on:
 
-- **Project 1**: Brief description of the project. Link to the repository or live demo.
-- **Project 2**: Brief description of the project. Link to the repository or live demo.
-- **Project 3**: Brief description of the project. Link to the repository or live demo.
-
-## Open Source Contributions
-I'm an active contributor to open-source projects, and I believe in giving back to the community. Some of my notable contributions include:
-
-- [Project Name](Link): Description of your contribution.
-- [Project Name](Link): Description of your contribution.
+- **UberEats Clone**: Sole contribution in replicating the functionalities of UberEats in a hierarchial fashion with upgrades pertaining to the efficient and optimal system design (https://youtu.be/HkROcVFkVHE)
+- **Indeed Clone**: Contributing to Job Portal imitation with layered architecture comprising enterprise grade software standards (https://youtu.be/J0RPAFwB-R8)
 
 ## Get in Touch
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername).
+I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vineet-batthina/)
 
 Let's collaborate and build amazing things together! 😄
