@@ -23,6 +23,6 @@ Here are a few projects I've worked on:
 - [Kanyarashi](https://github.com/gopinathsjsu/team-project-kanyarashi) : A new age hotel booking system based on dynamic holidays or recent trends found on twitter based on sentiment analysis
 
 ## Get in Touch
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vineet-batthina/)
+I'm always excited to connect with fellow developers and tech enthusiasts. 
 
 Let's collaborate and build amazing things together! 😄
