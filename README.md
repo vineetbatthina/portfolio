@@ -12,7 +12,7 @@ I'm a passionate and innovative software engineer with a strong foundation in de
 - Continuous integration and deployment
 
 ## Active Contributions
-- [Influence AI](https://influenceai.in/): A medium where influencers harmoniously collaborate with astute business proprietors to artfully promote and showcase their array of products
+- [Influence AI](https://www.influenceai.in/): A medium where influencers harmoniously collaborate with astute business proprietors to artfully promote and showcase their array of products
 
 ## Projects
 Here are a few projects I've worked on:
